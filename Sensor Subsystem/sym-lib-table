@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "D")(type "KiCad")(uri "C:/Users/campb/OneDrive - University of Cape Town/EEE3088F/0805W8F2702T5E/KiCad/0805W8F2702T5E.kicad_sym")(options "")(descr ""))
+  (lib (name "E")(type "KiCad")(uri "C:/Users/campb/OneDrive - University of Cape Town/EEE3088F/0805W8F220KT5E/KiCad/0805W8F220KT5E.kicad_sym")(options "")(descr ""))
+  (lib (name "TEFD4300F")(type "KiCad")(uri "C:/Users/campb/OneDrive - University of Cape Town/EEE3088F/IRlib.kicad_sym/TEFD4300F.kicad_sym")(options "")(descr ""))
+  (lib (name "TSAL6200")(type "KiCad")(uri "C:/Users/campb/OneDrive - University of Cape Town/EEE3088F/IRlib.kicad_sym/TSAL6200.kicad_sym")(options "")(descr ""))
+  (lib (name "0603WAF1503T5E")(type "KiCad")(uri "C:/Users/campb/OneDrive - University of Cape Town/EEE3088F/(150k res)0603WAF1503T5E/KiCad/0603WAF1503T5E.kicad_sym")(options "")(descr ""))
+  (lib (name "0603WAF3303T5E")(type "KiCad")(uri "C:/Users/campb/OneDrive - University of Cape Town/EEE3088F/(330k res)0603WAF3303T5E/KiCad/0603WAF3303T5E.kicad_sym")(options "")(descr ""))
+  (lib (name "0603WAF4703T5E")(type "KiCad")(uri "C:/Users/campb/OneDrive - University of Cape Town/EEE3088F/(470k)0603WAF4703T5E/KiCad/0603WAF4703T5E.kicad_sym")(options "")(descr ""))
+)
